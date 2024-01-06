@@ -9,4 +9,16 @@ public class TestDemo {
 		System.out.println("Hello Team 2");
 	}
 
+	// New code
+	public void add(int a, int b) {
+		System.out.println(a + b);
+	}
+
+	// Example Stash
+
+	public void name(String name) {
+		System.out.println(name);
+
+	}
+
 }
