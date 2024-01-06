@@ -9,6 +9,9 @@ public class TestDemo {
 		
 		System.out.println("Hello Team 2");
 		
+		System.out.println("Practice");
+		
+		System.out.println("Demo push");
 		
 	}
 	
