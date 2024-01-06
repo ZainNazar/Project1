@@ -12,6 +12,8 @@ public class TestDemo {
 		System.out.println("Practice");
 		
 		System.out.println("Demo push");
+// pull from github
+		System.out.println("Demo pull");
 		
 	}
 	
